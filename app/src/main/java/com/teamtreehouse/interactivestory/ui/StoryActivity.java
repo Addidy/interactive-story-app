@@ -1,9 +1,11 @@
-package com.teamtreehouse.interactivestory;
+package com.teamtreehouse.interactivestory.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+
+import com.teamtreehouse.interactivestory.R;
 
 public class StoryActivity extends AppCompatActivity {
 
